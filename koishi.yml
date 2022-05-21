@@ -1,0 +1,15 @@
+port: 8080
+
+plugins:
+  console:
+    open: true
+  logger:
+  manager:
+  status:
+  sandbox:
+  adapter-onebot:
+    bots: []
+  adapter-discord:
+    bots: []
+  adapter-telegram:
+    bots: []
